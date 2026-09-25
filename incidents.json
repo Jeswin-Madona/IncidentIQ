@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "incident": "A person was following a woman near a bus stop in the evening.",
+        "type": "Harassment",
+        "severity": "High",
+        "location": "Bus Stop"
+    },
+    {
+        "id": 2,
+        "incident": "My smartphone was snatched by a bike rider while I was waiting outside the metro station.",
+        "type": "Phone Snatching",
+        "severity": "High",
+        "location": "Metro Station"
+    },
+    {
+        "id": 3,
+        "incident": "A person was spotted acting suspiciously and trying door handles in the parking garage around 2 AM.",
+        "type": "Suspicious Activity",
+        "severity": "Medium",
+        "location": "Parking Garage"
+    },
+    {
+        "id": 4,
+        "incident": "An unknown individual was following someone closely near the railway station after dark.",
+        "type": "Stalking",
+        "severity": "High",
+        "location": "Railway Station"
+    },
+    {
+        "id": 5,
+        "incident": "A passenger reported aggressive verbal abuse and threats from a stranger on the evening train.",
+        "type": "Threat",
+        "severity": "High",
+        "location": "Train Station"
+    },
+    {
+        "id": 6,
+        "incident": "A laptop was reported missing from an unattended workspace in the office building during lunch hour.",
+        "type": "Theft",
+        "severity": "Medium",
+        "location": "Office Building"
+    },
+    {
+        "id": 7,
+        "incident": "A woman reported being followed by a man while walking home through a quiet street.",
+        "type": "Stalking",
+        "severity": "High",
+        "location": "Residential Street"
+    },
+    {
+        "id": 8,
+        "incident": "Someone stole a wallet out of a visitor's bag in a crowded shopping mall corridor.",
+        "type": "Theft",
+        "severity": "Medium",
+        "location": "Shopping Mall"
+    },
+    {
+        "id": 9,
+        "incident": "An individual was shouting aggressive threats at pedestrians near the central market plaza.",
+        "type": "Verbal Abuse",
+        "severity": "Medium",
+        "location": "Market Plaza"
+    },
+    {
+        "id": 10,
+        "incident": "A visitor slipped and fell on a wet floor near the building cafeteria entrance due to lack of caution signage.",
+        "type": "Safety Hazard",
+        "severity": "Low",
+        "location": "Cafeteria Entrance"
+    },
+    {
+        "id": 11,
+        "incident": "Security cameras caught a person loitering near the restricted server room door without a badge.",
+        "type": "Suspicious Activity",
+        "severity": "High",
+        "location": "Server Room Corridor"
+    },
+    {
+        "id": 12,
+        "incident": "A bystander had their purse snatched while waiting at a downtown bus shelter.",
+        "type": "Theft",
+        "severity": "High",
+        "location": "Bus Shelter"
+    },
+    {
+        "id": 13,
+        "incident": "Vandals broke a glass window at the side entrance of the community library overnight.",
+        "type": "Property Damage",
+        "severity": "Medium",
+        "location": "Community Library"
+    },
+    {
+        "id": 14,
+        "incident": "A pedestrian noticed an unattended backpack left sitting near a bench inside the train terminal.",
+        "type": "Unsafe Situation",
+        "severity": "Medium",
+        "location": "Train Terminal"
+    },
+    {
+        "id": 15,
+        "incident": "A driver reported an aggressive person knocking on car windows at an intersection at night.",
+        "type": "Harassment",
+        "severity": "Medium",
+        "location": "Street Intersection"
+    },
+    {
+        "id": 16,
+        "incident": "A employee reported being followed to their car in the dark underground parking lot.",
+        "type": "Stalking",
+        "severity": "High",
+        "location": "Underground Parking"
+    },
+    {
+        "id": 17,
+        "incident": "Pickpockets stole a phone and passport from a tourist in a crowded public square.",
+        "type": "Theft",
+        "severity": "High",
+        "location": "Public Square"
+    },
+    {
+        "id": 18,
+        "incident": "An unidentified person attempted to force open a side security door at 3 AM.",
+        "type": "Suspicious Activity",
+        "severity": "High",
+        "location": "Facility Rear Door"
+    }
+]

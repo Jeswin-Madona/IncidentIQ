@@ -1,0 +1,5 @@
+transformers
+torch
+streamlit
+sentence-transformers
+scikit-learn

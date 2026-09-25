@@ -1,0 +1,11 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+.vscode/
+.idea/
+*.log
